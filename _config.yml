@@ -1,0 +1,14 @@
+###########
+# site.title
+
+title: "Kaylee Deng"
+subtitle: "Portfolio"
+
+#########################
+# more settings
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - LICENSE.md
