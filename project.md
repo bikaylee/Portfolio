@@ -20,7 +20,7 @@ This is an e-commerce movie shopping website(Not really selling things). The web
 
 The backend is written in **Java Servlet**, and frontend is using **Javascript, HTML, CSS, and ajax** that's for calling the backend api. The database server used is **MySQL** and it's hosted in an AWS ec2 instance. The whole project is deployed on the **Tomcat** servers in both master and slave instance. For security reason, **reCAPTCHA** is set up to prevent bots to checkout the products and **HTTPS** is enforced. For scalability, **Master/Slave replication, load balancer, and connection pooling** were used to increase the performance of the website.
 
-Website: [https://fabflix.shop/p5/](https://fabflix.shop/p5/)
+Website: [https://fabflix.shop/p5/](https://fabflix.shop/p5/) <br>
 Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax, Stored Procedures
 
 <br>
@@ -36,7 +36,7 @@ This Capstone project is sponsored by a startup company that wants to provide a 
 
 The techinical structure of the project is the **MERN** stack development, which stands for **MongoDB, ExpressJS, React, and NodeJS.** Since most of the team is more familiar with python, we decided to use **Python Flask** for the backend in the beginning. However, the connecting of backend and frontend has an unresolved bug for two weeks, so we decided to convert the whole project into NodeJS for the backend. As everyone is working for a specific feature, the team is full-stack so everyone is more familar with the project code. So, I learned React and NodeJS during this project. I am responsible for the content management for administrators and overall display control for the frontend. Since the content is hosted on Spotify and Youtube, I used **OAuth2.0** for both API calling for pulling content link into our database.
 
-Website: [https://letsfika.today/](https://letsfika.today/)
+Website: [https://letsfika.today/](https://letsfika.today/) <br>
 Software Tools: MongoDB, ExpressJS, React, NodeJS, Netlify, Heroku, Youtube Data API, Spotify API
 
 <br>
@@ -53,7 +53,7 @@ Pixel Jump is a gameplay simulation in Malmo(Minecraft) that the agent will perf
 This is **Deep Reinforcement Learning** project that uses **PPO(Proximal Policy Optimization).** The algorithm makes updates based on the transitions that were obtained by the current policy and is used in the agent’s decision for better performance. To scale up the performance of our agent, we made five difficulity maps to train our agent for at least 24 hours. Data analysis can be found in the [final report](https://bikaylee.github.io/Pixel-Jump/final.html).
 
 Website: [https://bikaylee.github.io/Pixel-Jump/](https://bikaylee.github.io/Pixel-Jump/) <br>
-Source Code: [https://github.com/bikaylee/Pixel-Jump](https://github.com/bikaylee/Pixel-Jump)
+Source Code: [https://github.com/bikaylee/Pixel-Jump](https://github.com/bikaylee/Pixel-Jump) <br>
 Software Tools: gym, rllib, ppo, numpy
 
 <br>
@@ -81,7 +81,7 @@ Team: Individual Work
 As the treauser of She Who Codes club in City College of San Franciso, I redesigned the club webpage to promote our club. The webpage contains past events and upcoming events. It also includes the club contact information, meeting time, and mission.
 
 Website: [https://bikaylee.github.io/She-Who-Codes/](https://bikaylee.github.io/She-Who-Codes/) <br>
-Source Code: [https://github.com/bikaylee/She-Who-Codes](https://github.com/bikaylee/She-Who-Codes)
+Source Code: [https://github.com/bikaylee/She-Who-Codes](https://github.com/bikaylee/She-Who-Codes) <br>
 Software Tools: HTML, CSS, Javascript
 
 <br>
@@ -96,5 +96,5 @@ Team: Individual Work
 Very first webpage project after taking APCS in junior year of high schoool. At San Francisco Success Center, this 8-week course about web development fundamentals was taught by an experienced software engineer. This project is a redesigned webpage for a local restaurant in San Francisco.
 
 Website: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion) <br>
-Source Code: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion)
+Source Code: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion) <br>
 Software Tools: HTML, CSS, Javascript
