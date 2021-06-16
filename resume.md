@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  Resume
+title: Resume
 ---
 
-# {{ page.title }}
-
+<object data="resume.pdf" type="application/pdf">
+        <embed src="resume.pdf" type="application/pdf" />
+</object>
