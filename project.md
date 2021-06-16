@@ -5,8 +5,6 @@ title: Project
 
 ## Projects
 
----
-
 <br>
 
 #### Fabflix
@@ -25,6 +23,8 @@ Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, 
 
 <br>
 
+---
+
 #### Let’s Fika
 
 Capstone Project &middot; _UC Irvine, CS180A/B_ <br>
@@ -40,6 +40,8 @@ Website: [https://letsfika.today/](https://letsfika.today/) <br>
 Software Tools: MongoDB, ExpressJS, React, NodeJS, Netlify, Heroku, Youtube Data API, Spotify API
 
 <br>
+
+---
 
 #### Pixel Jump
 
@@ -58,6 +60,8 @@ Software Tools: gym, rllib, ppo, numpy
 
 <br>
 
+---
+
 #### Wumpus World
 
 Intro to Artificial Intelligence Project &middot; _UC Irvine, CS171_ <br>
@@ -70,6 +74,8 @@ This project is from an intro course of Artificial Intelligence. The Wumpus Worl
 Software Tools: C++, a\* search
 
 <br>
+
+---
 
 #### She Who Codes
 
@@ -86,6 +92,8 @@ Software Tools: HTML, CSS, Javascript
 
 <br>
 
+---
+
 #### La Fusion
 
 Webpage &middot; _San Francisco Code Ramp_ <br>
@@ -98,3 +106,7 @@ Very first webpage project after taking APCS in junior year of high schoool. At 
 Website: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion) <br>
 Source Code: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion) <br>
 Software Tools: HTML, CSS, Javascript
+
+<br>
+
+---
