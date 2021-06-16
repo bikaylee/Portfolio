@@ -5,6 +5,6 @@ title: Resume
 
 ## Resume
 
-<object data="resume.pdf" type="application/pdf" width="90%" height="100%">
+<object data="resume.pdf" type="application/pdf" style="min-height:100vh;width:100%">
         <embed src="resume.pdf" type="application/pdf" />
 </object>

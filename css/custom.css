@@ -36,8 +36,22 @@ code {
   font-size: 80%;
 }
 
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+}
+
 .social-icons {
   font-size: 2rem;
+  float: right;
 }
 
 .social-icons i {
