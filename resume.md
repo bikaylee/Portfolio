@@ -5,7 +5,6 @@ title: Resume
 
 ## Resume
 
-<iframe src="resume.pdf" ></iframe>
-<object data="resume.pdf" type="application/pdf">
+<object data="resume.pdf" type="application/pdf" width="90%">
         <embed src="resume.pdf" type="application/pdf" />
 </object>
