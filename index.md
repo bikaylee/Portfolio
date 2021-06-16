@@ -3,25 +3,30 @@ layout: default
 title: Home
 ---
 
-## Education
+### About
+
+Hello, my name is Kaylee Deng. I am a senior student at UCI.
+Currently, I am actively seeking full-time job or internship.
+
+<br><br>
+
+### Education
 
 ---
 
-#### University of California, Irvine
+##### University of California, Irvine
 
-_Bachelor of Science - BS, Computer Science, 3.8/4.0_
-
+_Bachelor of Science - BS, Computer Science, 3.8/4.0_ <br>
 <small>2019 - Present</small>
 
-#### City College of San Francisco
+##### City College of San Francisco
 
-_Associate Degree for Transfer, Mathematics, 3.8/4.0_
-
+_Associate Degree for Transfer, Mathematics, 3.8/4.0_ <br>
 <small>2017 - 2019</small>
 
 <br><br>
 
-## Skills
+### Skills
 
 ---
 
@@ -31,14 +36,13 @@ _Associate Degree for Transfer, Mathematics, 3.8/4.0_
 
 <br><br>
 
-## Experiences
+### Experiences
 
 ---
 
-#### Teacher Assistant
+##### Teacher Assistant
 
-**City College of San Francisco** &middot; Part-time
-
+**City College of San Francisco** &middot; Part-time <br>
 <small>Aug 2018 - May 2019</small>
 
 _San Francisco, CA_
@@ -49,10 +53,9 @@ _San Francisco, CA_
 
 <br>
 
-#### IT Purchasing Intern
+##### IT Purchasing Intern
 
-**First Republic Bank** &middot; Internship
-
+**First Republic Bank** &middot; Internship <br>
 <small>Jun 2017 - Aug 2017</small>
 
 _San Francisco, CA_
@@ -64,10 +67,9 @@ _San Francisco, CA_
 
 <br>
 
-#### Student Intern
+##### Student Intern
 
-**US Department of Education** &middot; Internship
-
+**US Department of Education** &middot; Internship <br>
 <small>Jan 2015 - May 2015</small>
 
 _San Francisco, CA_
@@ -78,14 +80,13 @@ _San Francisco, CA_
 
 <br><br>
 
-## Volunteer Experiences
+### Volunteer Experiences
 
 ---
 
-#### Registration Assistant
+##### Registration Assistant
 
-**Developer Week 2019** &middot; Science and Technology
-
+**Developer Week 2019** &middot; Science and Technology <br>
 <small> Feb 2019 </small>
 
 - Provided conference/expo information to the attendees
@@ -93,10 +94,9 @@ _San Francisco, CA_
 
 <br>
 
-#### Project Participant
+##### Project Participant
 
-**Pedestrian Safety Project** &middot; Civil Rights and Social Action
-
+**Pedestrian Safety Project** &middot; Civil Rights and Social Action <br>
 <small> Jan 2017 – May 2017 </small>
 
 - Associated with San Francisco Vision Zero
@@ -105,10 +105,9 @@ _San Francisco, CA_
 
 <br>
 
-#### Student Volunteer
+##### Student Volunteer
 
-**American Heart Association** &middot; Social Services
-
+**American Heart Association** &middot; Social Services <br>
 <small> Sept 2016 – Jun 2017 </small>
 
 - Learned CPR and lifesaving skills

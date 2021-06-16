@@ -7,56 +7,100 @@ title: Project
 
 ---
 
+<br>
+
 #### Fabflix
 
-Full Stack Web Application &middot; _UC Irvine, CS122B_
-
+Full Stack Web Application &middot; _UC Irvine, CS122B_ <br>
 <small>Apr 2021 - Jun 2021</small>
+
+Team: Individual Work
 
 - RESTful API: Implement RESTful API with JavaServlet, MySQL database management, Apache Tomcat for deployment, and AWS instance as server.
 - JavaScript: Implement with JavaScript, using AJAX for HTTP Request to the back-end server.
-- Android App: Integrate to Android platform using Java, App includes Fuzzy Search, Full-Text Search, and
-  auto-complete.
+- Android App: Integrate to Android platform using Java, App includes Fuzzy Search, Full-Text Search, and auto-complete.
 - User Validation: Increase scalability and security by adding reCAPTCHA, sessions, encrypted password and HTTPS.
+
+Website: [https://fabflix.shop/p5/](https://fabflix.shop/p5/)
+
+Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax
 
 <br>
 
 #### Let’s Fika
 
-Capstone Project &middot; _UC Irvine, CS180_
-
+Capstone Project &middot; _UC Irvine, CS180A/B_ <br>
 <small>Jan 2021 - Jun 2021</small>
 
-- NodeJS: Implement with RESTful API with NodeJS, MongoDB Atlas for database management, and Heroku for deployment.
-- React: Implement with React for both user flow and administration content management.
+Team Members: Albert Zhang, Jack Su, Michael Wang
+
+This Capstone project is sponsored by a startup company that wants to provide a space for people to share perspectives during a Swedish coffee time, as known as Fika. To escape from commenting and likes and provide a healthy and safe environment for people so that speakers are more encouraged to share.
+
+The techinical structure of the project is the **MERN** stack development, which stands for **MongoDB, ExpressJS, React, and NodeJS.** Since most of the team is more familiar with python, we decided to use **Python Flask** for the backend in the beginning. However, the connecting of backend and frontend has an unresolved bug for two weeks, so we decided to convert the whole project into NodeJS for the backend. As everyone is working for a specific feature, the team is full-stack so everyone is more familar with the project code. So, I learned React and NodeJS during this project. I am responsible for the content management for administrators and overall display control for the frontend. Since the content is hosted on Spotify and Youtube, I used **OAuth2.0** for both API calling for pulling content link into our database.
+
+Website: [https://letsfika.today/](https://letsfika.today/)
+
+Software Tools: MongoDB, ExpressJS, React, NodeJS, Netlify, Heroku, Youtube Data API, Spotify API
 
 <br>
 
 #### Pixel Jump
 
+Artificial Intelligence Project in Malmo &middot; _UC Irvine, CS175_ <br>
 <small>Oct 2020 - Dec 2020</small>
 
-Artificial Intelligence with Malmo &middot; _UC Irvine, CS175_
+Team Members: Hongen Lei, Wencong She
 
-- Deep Reinforcement Learning: Jumping game simulation using Malmo. The agent learns from the reward system based on its actions. The environment is difficult with enormous action space in which the agent can choose the initial velocity and degree from a range of continuous data points.
-- Proximal Policy Optimization: The algorithm makes updates based on the transitions that were obtained by the current policy and is used in the agent’s decision for better performance.
-- Classical Mechanics: Jumping simulation is based on the 3D projectile motion calculation.
+Pixel Jump is a gameplay simulation in Malmo(Minecraft) that the agent will perform physical jumps from one platform to another with user-control jump simulation based on the **3D projectile motion calculation**. The purpose of this project is to let the agent observe his surrounding platforms and then pick an initial velocity from a continuous action space to ensure that the agent can land on various positions of the next platform and hopefully jump onto the glass (goal) block for greater reward.
+
+This is **Deep Reinforcement Learning** project that uses **PPO(Proximal Policy Optimization).** The algorithm makes updates based on the transitions that were obtained by the current policy and is used in the agent’s decision for better performance. To scale up the performance of our agent, we made five difficulity maps to train our agent for at least 24 hours. Data analysis can be found in the [final report](https://bikaylee.github.io/Pixel-Jump/final.html)
+
+Website: [https://bikaylee.github.io/Pixel-Jump/](https://bikaylee.github.io/Pixel-Jump/) <br>
+Source Code: [https://github.com/bikaylee/Pixel-Jump](https://github.com/bikaylee/Pixel-Jump)
+
+Software Tools: gym, rllib, ppo, numpy
+
+<br>
+
+#### Wumpus World
+
+Intro to Artificial Intelligence Project &middot; _UC Irvine, CS171_ <br>
+<small>Mar 2020</small>
+
+Team: Individual Work
+
+This project is from an intro course of Artificial Intelligence. The Wumpus World is classified as **single agent, partially observable, simulated, static, discrete, sequential, and deterministic.** The goal is to let the agent gets as many points as possible. Given a 2D grid of tiles, the agent will be scored based on the performance of getting a gold safely. The objective is to use **a\* search** to find the minimal step of path both in searching the target and returning. Based on the current perceptions to predict the safety of surrounding tiles, the agent will go to the safest location in searching and will be marked trapped and return to the starting point if surroundings are too dangerous.
+
+Software Tools: C++, a\* search
 
 <br>
 
 #### She Who Codes
 
+Webpage &middot; _CCSF, She Who Codes Club_ <br>
 <small>Sep 2018</small>
 
-Webpage &middot; _CCSF, She Who Codes Club_
+Team: Individual Work
 
-Club webpage of She Who Codes is to inform students about past events and upcoming events in the club. It also includes our contact information, meeting time, and mission.
-See project She Who Codes Club Webpage
+As the treauser of She Who Codes club in City College of San Franciso, I redesigned the club webpage to promote our club. The webpage contains past events and upcoming events. It also includes the club contact information, meeting time, and mission.
+
+Website: [https://bikaylee.github.io/She-Who-Codes/](https://bikaylee.github.io/She-Who-Codes/) <br>
+Source Code: [https://github.com/bikaylee/She-Who-Codes](https://github.com/bikaylee/She-Who-Codes)
+
+Software Tools: HTML, CSS, Javascript
 
 <br>
 
 #### La Fusion
 
-<small>Jan 2017 - Mar 2017</small>
+Webpage &middot; _San Francisco Code Ramp_ <br>
+<small>Feb 2017 - Apr 2017</small>
 
-Webpage &middot; _San Francisco Code Ramp_
+Team: Individual Work
+
+Very first webpage project after taking APCS in junior year of high schoool. At San Francisco Success Center, this 8-week course about web development fundamentals was taught by an experienced software engineer. This project is a redesigned webpage for a local restaurant in San Francisco.
+
+Website: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion) <br>
+Source Code: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion)
+
+Software Tools: HTML, CSS, Javascript
