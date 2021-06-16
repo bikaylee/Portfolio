@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Experience
 ---
 
 Hello, my name is Kaylee Deng. I am a senior student at UCI.
