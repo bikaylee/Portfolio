@@ -16,14 +16,13 @@ Full Stack Web Application &middot; _UC Irvine, CS122B_ <br>
 
 Team: Individual Work
 
-- RESTful API: Implement RESTful API with JavaServlet, MySQL database management, Apache Tomcat for deployment, and AWS instance as server.
-- JavaScript: Implement with JavaScript, using AJAX for HTTP Request to the back-end server.
-- Android App: Integrate to Android platform using Java, App includes Fuzzy Search, Full-Text Search, and auto-complete.
-- User Validation: Increase scalability and security by adding reCAPTCHA, sessions, encrypted password and HTTPS.
+This is e-commerce movie shopping website.(Not really selling things) The website contains separate logins for users and employees. If users wants to checkout a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
+
+The backend is written in **Java Servlet**, and frontend is using **Javascript, HTML, CSS, and ajax** that's for calling the backend api. The database server used is **MySQL** and it's hosted in an AWS ec2 instance. The whole project is deployed on the **Tomcat** servers in both master and slave instance. For security reason, **reCAPTCHA** is set up to prevent bots to checkout the products and HTTPS is enforced. For scalability, **Master/Slave replication, load balancer, and connection pooling** were used to increase the performance of the website.
 
 Website: [https://fabflix.shop/p5/](https://fabflix.shop/p5/)
 
-Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax
+Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax, Stored Procedures
 
 <br>
 
@@ -53,7 +52,7 @@ Team Members: Hongen Lei, Wencong She
 
 Pixel Jump is a gameplay simulation in Malmo(Minecraft) that the agent will perform physical jumps from one platform to another with user-control jump simulation based on the **3D projectile motion calculation**. The purpose of this project is to let the agent observe his surrounding platforms and then pick an initial velocity from a continuous action space to ensure that the agent can land on various positions of the next platform and hopefully jump onto the glass (goal) block for greater reward.
 
-This is **Deep Reinforcement Learning** project that uses **PPO(Proximal Policy Optimization).** The algorithm makes updates based on the transitions that were obtained by the current policy and is used in the agent’s decision for better performance. To scale up the performance of our agent, we made five difficulity maps to train our agent for at least 24 hours. Data analysis can be found in the [final report](https://bikaylee.github.io/Pixel-Jump/final.html)
+This is **Deep Reinforcement Learning** project that uses **PPO(Proximal Policy Optimization).** The algorithm makes updates based on the transitions that were obtained by the current policy and is used in the agent’s decision for better performance. To scale up the performance of our agent, we made five difficulity maps to train our agent for at least 24 hours. Data analysis can be found in the [final report](https://bikaylee.github.io/Pixel-Jump/final.html).
 
 Website: [https://bikaylee.github.io/Pixel-Jump/](https://bikaylee.github.io/Pixel-Jump/) <br>
 Source Code: [https://github.com/bikaylee/Pixel-Jump](https://github.com/bikaylee/Pixel-Jump)

@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-### About
-
 Hello, my name is Kaylee Deng. I am a senior student at UCI.
 Currently, I am actively seeking full-time job or internship.
 
@@ -32,7 +30,7 @@ _Associate Degree for Transfer, Mathematics, 3.8/4.0_ <br>
 
 **Languages:** Java, Python, C++, C, SQL
 
-**Technologies:** NodeJS, ExpressJS, React, PPO, MongoDB, Flask,
+**Technologies:** NodeJS, ExpressJS, React, PPO, MongoDB, Python Flask
 
 <br><br>
 
