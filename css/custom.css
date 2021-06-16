@@ -37,7 +37,10 @@ code {
 }
 
 .social-icons {
-  color: #41464b;
   font-size: 2rem;
+}
+
+.social-icons i {
+  color: #41464b;
   margin: auto;
 }
