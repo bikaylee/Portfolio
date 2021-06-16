@@ -19,7 +19,7 @@ _Associate Degree for Transfer, Mathematics, 3.8/4.0_
 
 <small>2017 - 2019</small>
 
-<br>
+<br><br>
 
 ## Skills
 
@@ -29,7 +29,7 @@ _Associate Degree for Transfer, Mathematics, 3.8/4.0_
 
 **Technologies:** NodeJS, ExpressJS, React, PPO, MongoDB, Flask,
 
-<br>
+<br><br>
 
 ## Experiences
 
@@ -47,6 +47,8 @@ _San Francisco, CA_
 - Held office hours for tutoring students in fundamental concepts like inheritance and polymorphism
 - Graded 200 student’s homework assignments
 
+<br>
+
 #### IT Purchasing Intern
 
 **First Republic Bank** &middot; Internship
@@ -60,6 +62,8 @@ _San Francisco, CA_
 - Maintained employee, assets, and procurement information
 - Operate office equipment and arrange for repairs when equipment malfunctions
 
+<br>
+
 #### Student Intern
 
 **US Department of Education** &middot; Internship
@@ -72,30 +76,40 @@ _San Francisco, CA_
 - Organized incoming mails, student loan applications, and bankruptcy notices
 - Analyzed student grants and federal aid claims
 
-<br>
+<br><br>
 
 ## Volunteer Experiences
 
 ---
 
-#### Registration Assistant <small> Feb 2019 </small>
+#### Registration Assistant
 
 **Developer Week 2019** &middot; Science and Technology
+
+<small> Feb 2019 </small>
 
 - Provided conference/expo information to the attendees
 - Helped attendees and speakers register and handed out badges
 
-#### Project Participant <small> Jan 2017 – May 2017 </small>
+<br>
+
+#### Project Participant
 
 **Pedestrian Safety Project** &middot; Civil Rights and Social Action
+
+<small> Jan 2017 – May 2017 </small>
 
 - Associated with San Francisco Vision Zero
 - Evaluated safety about crossing streets in Richmond District
 - Created videos, posters, stickers, and etc. to inform people about pedestrian safety
 
-#### Student Volunteer <small> Sept 2016 – Jun 2017 </small>
+<br>
+
+#### Student Volunteer
 
 **American Heart Association** &middot; Social Services
+
+<small> Sept 2016 – Jun 2017 </small>
 
 - Learned CPR and lifesaving skills
 - Provided lessons about CPR and AED at Fire Station
