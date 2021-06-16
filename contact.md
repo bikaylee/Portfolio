@@ -7,6 +7,8 @@ title: Contact
 
 ---
 
-###### Mobile: +1 (415)244-2973
+- ###### Residence: San Francisco
 
-###### Email: bixiadd@gmail.com
+- ###### Mobile: +1(415)244-2973
+
+- ###### Email: bixiadd@gmail.com
