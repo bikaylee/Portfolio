@@ -3,9 +3,6 @@ layout: default
 title: Experience
 ---
 
-Hello, my name is Kaylee Deng. I am a senior student at UCI.
-Currently, I am actively seeking full-time job or internship.
-
 <br><br>
 
 ### Education
