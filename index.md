@@ -23,7 +23,7 @@ title: Project
             Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax, Stored Procedures</p>
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
             <a href="https://fabflix.shop/p5/">
                 <img src="img/fabflix.png" alt="Fabflix Webpage">
             </a>
@@ -48,7 +48,7 @@ title: Project
             </p>
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         <a href="https://letsfika.today/">
             <img src="img/letsfika.png" alt="Let's Fika Webpage">
         </a>
@@ -73,7 +73,7 @@ title: Project
             Software Tools: gym, rllib, ppo, numpy</p>
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         <a href="https://bikaylee.github.io/Pixel-Jump/">
             <img src="img/pixeljump.gif" alt="Pixel Jump Webpage">
         </a>
@@ -122,7 +122,7 @@ title: Project
             Software Tools: HTML, CSS, Javascript</p>
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         <a href="https://bikaylee.github.io/She-Who-Codes/">
             <img src="img/shewhocodes.png" alt="She Who Codes Webpage">
         </a>
@@ -147,7 +147,7 @@ title: Project
             Software Tools: HTML, CSS, Javascript</p>
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         <a href="https://bikaylee.github.io/La-Fusion/">
             <img src="img/lafusion.png" alt="La Fusion Webpage">
         </a>
