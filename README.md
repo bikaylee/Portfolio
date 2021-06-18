@@ -5,4 +5,4 @@ Currently, I am actively seeking full-time job or internship.
 
 Portfolio uses markdown to render webpages and it contains past projects, experiences, and contact information.
 
-Portfolio Link: [https://bikaylee.github.io/Portfolio/](https://bikaylee.github.io/Portfolio/)
+Portfolio Link: [https://kayleedeng.com/](https://kayleedeng.com/)
