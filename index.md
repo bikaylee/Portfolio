@@ -72,7 +72,7 @@ title: Project
                 </small>
             </p>
             <p>
-                Team Mbbers: Albert Zhang, Jack Su, Michael Wang
+                Team Members: Albert Zhang, Jack Su, Michael Wang
             </p>
             <p>
                 This Capstone project is sponsored by a startup company that wants to provide a space for people to share perspectives during a Swedish coffee time, known as Fika. To escape from commenting and likes and provide a healthy and safe environment for people so that speakers are more encouraged to share.
@@ -118,7 +118,7 @@ title: Project
                 </small>
             </p>
             <p>
-                Team Mbbers: Hongen Lei, Wencong She
+                Team Members: Hongen Lei, Wencong She
             </p>
             <p>
                 Pixel Jump is a gameplay simulation in Malmo(Minecraft) where the agent will perform physical jumps from one platform to another with user-control jump simulation based on the <b> 3D projectile motion calculation</b>. The purpose of this project is to let the agent observe his surrounding platforms and then pick an initial velocity from a continuous action space to ensure that the agent can land on various positions of the next platform and hopefully jump onto the glass (goal) block for greater reward.
