@@ -25,6 +25,8 @@ The backend is written in **Java Servlet**, and frontend is using **Javascript, 
 Website: [https://fabflix.shop/p5/](https://fabflix.shop/p5/) <br>
 Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax, Stored Procedures
 
+[![Fabflix Webpage](img/fabflix.png)](https://fabflix.shop/p5/)
+
 <br>
 
 ---
@@ -44,6 +46,8 @@ The techinical structure of the project is the **MERN** stack development, which
 
 Website: [https://letsfika.today/](https://letsfika.today/) <br>
 Software Tools: MongoDB, ExpressJS, React, NodeJS, Netlify, Heroku, Youtube Data API, Spotify API
+
+[![Let's Fika Webpage](img/letsfika.png)](https://letsfika.today/)
 
 <br>
 
@@ -65,6 +69,8 @@ This is **Deep Reinforcement Learning** project that uses **PPO(Proximal Policy 
 Website: [https://bikaylee.github.io/Pixel-Jump/](https://bikaylee.github.io/Pixel-Jump/) <br>
 Source Code: [https://github.com/bikaylee/Pixel-Jump](https://github.com/bikaylee/Pixel-Jump) <br>
 Software Tools: gym, rllib, ppo, numpy
+
+[![Pixel Jump Webpage](img/pixeljump.gif)](https://bikaylee.github.io/Pixel-Jump/)
 
 <br>
 
@@ -102,6 +108,8 @@ Website: [https://bikaylee.github.io/She-Who-Codes/](https://bikaylee.github.io/
 Source Code: [https://github.com/bikaylee/She-Who-Codes](https://github.com/bikaylee/She-Who-Codes) <br>
 Software Tools: HTML, CSS, Javascript
 
+[![She Who Codes Webpage](img/shewhocodes.png)](https://bikaylee.github.io/She-Who-Codes/)
+
 <br>
 
 ---
@@ -120,6 +128,8 @@ Very first webpage project after taking APCS in junior year of high schoool. At 
 Website: [https://bikaylee.github.io/La-Fusion/](https://bikaylee.github.io/La-Fusion/) <br>
 Source Code: [https://github.com/bikaylee/La-Fusion](https://github.com/bikaylee/La-Fusion) <br>
 Software Tools: HTML, CSS, Javascript
+
+[![La Fusion Webpage](img/lafusion.png)](https://bikaylee.github.io/La-Fusion/)
 
 <br>
 
