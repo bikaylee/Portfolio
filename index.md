@@ -10,7 +10,7 @@ title: Project
 <br>
 
 <div class="row">
-    <div class="col-sm-8" >
+    <div class="col-sm-9" >
         <div class="container">
             <h3> Fabflix </h3>
             <p>Full Stack Web Application &middot; <i>UC Irvine, CS122B</i><br>
@@ -35,7 +35,7 @@ title: Project
 <br>
 
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-9">
         <div class="container">
             <h3> Let’s Fika </h3>
             <p>Capstone Project &middot; <i>UC Irvine, CS180A/B</i><br>
@@ -60,7 +60,7 @@ title: Project
 <br>
 
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-9">
         <div class="container">
             <h3> Pixel Jump </h3>
             <p>Artificial Intelligence Project in Malmo &middot; <i>UC Irvine, CS175</i><br>
@@ -85,7 +85,7 @@ title: Project
 <br>
 
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-9">
         <div class="container">
             <h3> Wumpus World </h3>
             <p>Intro to Artificial Intelligence Project &middot; <i>UC Irvine, CS171</i><br>
@@ -108,7 +108,7 @@ title: Project
 <br>
 
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-9">
         <div class="container">
             <h3> She Who Codes </h3>
             <p>Webpage &middot; <i> CCSF - She Who Codes Club </i><br>
@@ -133,7 +133,7 @@ title: Project
 <hr>
 <br>
 <div class="row">
-    <div class="col-sm-8">
+    <div class="col-sm-9">
         <div class="container">
             <h3> La Fusion </h3>
             <p>Webpage &middot; <i>San Francisco Code Ramp</i><br>
