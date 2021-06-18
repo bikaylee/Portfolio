@@ -182,7 +182,9 @@ title: Project
             </p>
         </div>
     </div>
-
+    <div class="col-sm-4">
+            <img src="img/wumpusworld.png" alt="Wumpus World">
+    </div>
 </div>
 
 <br>
