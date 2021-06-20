@@ -11,12 +11,12 @@ title: Experience
 
 ##### University of California, Irvine
 
-_Bachelor of Science - BS, Computer Science, 3.8/4.0_ <br>
+_Bachelor of Science - BS, Computer Science, 3.84/4.0_ <br>
 <small>2019 - Present</small>
 
 ##### City College of San Francisco
 
-_Associate Degree for Transfer, Mathematics, 3.8/4.0_ <br>
+_Associate Degree for Transfer, Mathematics, 3.80/4.0_ <br>
 <small>2017 - 2019</small>
 
 <br><br>
