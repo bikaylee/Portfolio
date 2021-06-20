@@ -9,6 +9,10 @@ title: Contact
 
 ###### Residence: San Francisco
 
-###### Mobile: +1(415)244-2973
+###### Email: [bixiadd@gmail.com](mailto:bixiadd@gmail.com)
 
-###### Email: bixiadd@gmail.com
+###### Linkedin: [https://www.linkedin.com/in/bixia-d-880753122/](https://www.linkedin.com/in/bixia-d-880753122/)
+
+###### GitHub: [https://github.com/bikaylee](https://github.com/bikaylee)
+
+###### Youtube: [https://www.youtube.com/channel/UCAuma7q5CuZObcfY30n3R4Q](https://www.youtube.com/channel/UCAuma7q5CuZObcfY30n3R4Q)
