@@ -36,8 +36,8 @@ title: Project
             </p>
             <p>
                 Website: 
-                <a href="https://fabflix.shop/p5/">
-                    https://fabflix.shop/p5/
+                <a href="https://fabflix.shop">
+                    https://fabflix.shop
                 </a>
                 <br>
                 Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax, Stored Procedures
@@ -45,7 +45,7 @@ title: Project
         </div>
     </div>
     <div class="col-sm-4">
-            <a href="https://fabflix.shop/p5/">
+            <a href="https://fabflix.shop">
                 <img src="img/fabflix.png" alt="Fabflix Webpage">
             </a>
     </div>
