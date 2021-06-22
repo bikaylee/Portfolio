@@ -159,6 +159,140 @@ title: Project
     <div class="col-sm-8">
         <div class="container">
             <h3> 
+                Computer Vision Projects
+            </h3>
+            <p>
+                Computational Photo & Vision &middot; 
+                <i>
+                    UC Irvine, CS116
+                </i>
+                <br>
+                <small>
+                   Jan 2021 - Mar 2021
+                </small>
+            </p>
+            <p>
+                Team: Individual Work
+            </p>
+            <p>
+                1. Images and color demosaicing <br>
+                    The demosaiced image appears darker than the JPG version because the in the phase of demosaicing, the demosaiced algrithm fills the missing pixels by prediction based on its surrounding colors from the RAW version which this process is called "interpolation". This process generates back the colors but not the brightness. Also, the camera senor interprets light intensity linearly and the Gamma/Curve and White Balance processes in the DSP would regenerate the brightness and contrast of the image for human eyes.
+                <br>
+                2. Homography mosaics <br>
+                    In order to construct a mosaic from a central image and a set of peripheral images, 
+                    one homography for each peripheral image is requried for the final mosaic. 
+                    First, pick the **correpsonding points** between each central and peripheral image, the
+                    points should be located on distinctive locations that you can easily identify between the images
+                    such as high contrast corners. Then, compute the homography (3x3 transformation matrix) using 
+                    linear least squares. Finally, warp and blend the homographies into a mosaic image. Blending 
+                    is using guassian filter and alpha blend for smoother effect. 
+                <br>
+                3. Texture Quilting <br>
+                    This project is to stitch together image patches sampled from an input texture in order to synthesize new texture images. First, find the shortest path of seam between the edge of 
+                    the image patch to reduce short stitch. Then, stitch the image from left to right and top to 
+                    bottom and remove the overlapping region. Finally, the text quilting step takes an array 
+                    containing the set of available texture tiles, the tilesize and overlap parameters and synthesizes
+                    the output texture by stitching together the tiles.
+                <br>
+                4. Object Detection <br>
+                    This project takes in a collection of templates and use their HOG feature maps to compute the
+                    similar objects in the image. First, compute the orientation and magnitude of the gradient 
+                    vector at each pixel. Second, get the histogram bin of gradient orientations for HOG features. 
+                    Then, correlate the template with the feature map, Lastly, take a collection 
+                    of cropped positive and negative examples of the object in detecting, extract the features 
+                    for each, and generate a template by taking the average positive template minus the average
+                    negative template.
+                <br>
+                5. Face Morphing and Swapping <br>
+                    This project is to warp from one face to another using the piecewise affine warping technique 
+                    to perform morphing and face-swapping. The idea to is transform the selected points into 
+                    triangles and perform morphing and blending. 
+            </p>
+            <p>
+                Tools: Python, jupyter notebook, numpy, matplotlib, scipy
+            </p>
+        </div>
+    </div>
+    <div class="col-sm-4">
+            <img src="img/computervision.png" alt="Computer Vision">
+    </div>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="row">
+    <div class="col-sm-8">
+        <div class="container">
+            <h3> 
+                Embedded Software built with ATMega32
+            </h3>
+            <p>
+                Embedded-Software Projects &middot; 
+                <i>
+                    UC Irvine, CS145/L
+                </i>
+                <br>
+                <small>
+                   Jan 2020 - Mar 2020
+                </small>
+            </p>
+            <p>
+                Team: Nigina Pulatova
+            </p>
+            <p>
+                1. LED Light <br>
+                    A push button is used as input and an LED light as ouptut. This program blinks 
+                    the LED on/off for as long as the push button is pressed. Initially, instruction timing is 
+                    used to control the LED on/off rate (the internal 1MHz clock). Then, the timing is revised
+                    based on one of the ATMega32 internal timers (external 8MHz crystal). 
+                    The blinking rate is 500ms on and 500ms off.
+                <br>
+                2. Clock <br>
+                    A digital clock, showing MM/DD/YYYY on the top row 
+                    and HH:MM:SS on the bottom row. **Ticking** is included to 
+                    simulate each increment of second. The time can be set to 
+                    military time or 12hr mode. Similar to a real clock, the time
+                    can be modified and also includes daylight savings and leap year. 
+                <br>
+                3. Music Player  <br>
+                    A keypad as input to switch between songs and an LCD and a speaker as output. 
+                    The music player is able to play musical notes that are stored in its memory. The frequency 
+                    of notes from C4 to A6 and the duration of whole, half, quarter, eighth note are predefined 
+                    as macros. In order to play the song, the pitch, period, and tempo are tuned and can be adjusted
+                    with keypad input.  
+                <br>
+                4. Voltmeter <br>
+                    A keypad and an **analog-to-digital (AD) I/O** is used as input and 
+                    an LCD as output. Final display includes instantaneous voltage, max/min voltage, 
+                    and average voltage with a reset button. All samples are taken in every 500ms. 
+                    We include both **single-ended** and **differential** measurement in this project. 
+                <br>
+                5. Alarm Clock <br>
+                    The alarm clock is able to go off during the set time, 
+                    include stopwatch and timer, take into account the daylight savings 
+                    as well as switch between the world clocks and/or keep **ticking** 
+                    while alarm is going off. Sound is using analog audio signal.
+            </p>
+            <p>
+                Tools: C, Atmel Studio, Aruino Programmer, ATMega32 Microcontroller, keypad, LED light, Speaker, LCD
+            </p>
+        </div>
+    </div>
+    <div class="col-sm-4">
+            <img src="img/embeddedsoftware.png" alt="Embedded Software">
+    </div>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="row">
+    <div class="col-sm-8">
+        <div class="container">
+            <h3> 
                 Wumpus World 
             </h3>
             <p>
