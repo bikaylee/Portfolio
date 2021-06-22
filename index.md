@@ -175,36 +175,46 @@ title: Project
                 Team: Individual Work
             </p>
             <p>
-                1. Images and color demosaicing <br>
-                    The demosaiced image appears darker than the JPG version because the in the phase of demosaicing, the demosaiced algrithm fills the missing pixels by prediction based on its surrounding colors from the RAW version which this process is called "interpolation". This process generates back the colors but not the brightness. Also, the camera senor interprets light intensity linearly and the Gamma/Curve and White Balance processes in the DSP would regenerate the brightness and contrast of the image for human eyes.
-                <br>
-                2. Homography mosaics <br>
-                    In order to construct a mosaic from a central image and a set of peripheral images, 
+                <h5>1. Images and color demosaicing </h5>
+                    The demosaiced image appears darker than the JPG version because the in the phase of demosaicing, 
+                    the demosaiced algrithm fills the missing pixels by prediction based on its surrounding colors 
+                    from the **RAW** version which this process is called **"interpolation"**. This process generates back
+                    the colors but not the brightness. Also, the camera senor interprets light intensity linearly 
+                    and the **Gamma/Curve** and **White Balance** processes in the DSP would regenerate the brightness 
+                    and contrast of the image for human eyes.
+            </p>
+            <p>
+                <h5>2. Homography mosaics </h5>
+                    In order to construct a mosaic from a central image and a set of **peripheral images**, 
                     one homography for each peripheral image is requried for the final mosaic. 
                     First, pick the **correpsonding points** between each central and peripheral image, the
                     points should be located on distinctive locations that you can easily identify between the images
                     such as high contrast corners. Then, compute the homography (3x3 transformation matrix) using 
                     linear least squares. Finally, warp and blend the homographies into a mosaic image. Blending 
-                    is using guassian filter and alpha blend for smoother effect. 
-                <br>
-                3. Texture Quilting <br>
-                    This project is to stitch together image patches sampled from an input texture in order to synthesize new texture images. First, find the shortest path of seam between the edge of 
+                    is using **guassian filter** and **alpha blend** for smoother effect. 
+            </p>
+            <p>
+                <h5>3. Texture Quilting </h5>
+                    This project is to stitch together image patches sampled from an input texture in order to synthesize 
+                    new texture images. First, find the shortest path of seam between the edge of 
                     the image patch to reduce short stitch. Then, stitch the image from left to right and top to 
                     bottom and remove the overlapping region. Finally, the text quilting step takes an array 
                     containing the set of available texture tiles, the tilesize and overlap parameters and synthesizes
                     the output texture by stitching together the tiles.
-                <br>
-                4. Object Detection <br>
-                    This project takes in a collection of templates and use their HOG feature maps to compute the
-                    similar objects in the image. First, compute the orientation and magnitude of the gradient 
-                    vector at each pixel. Second, get the histogram bin of gradient orientations for HOG features. 
+            </p>
+            <p>
+                <h5>4. Object Detection </h5>
+                    This project takes in a collection of templates and use their **HOG feature maps** to compute the
+                    similar objects in the image. First, compute the **orientation and magnitude of the gradient 
+                    vector** at each pixel. Second, get the histogram bin of gradient orientations for HOG features. 
                     Then, correlate the template with the feature map, Lastly, take a collection 
                     of cropped positive and negative examples of the object in detecting, extract the features 
                     for each, and generate a template by taking the average positive template minus the average
                     negative template.
-                <br>
-                5. Face Morphing and Swapping <br>
-                    This project is to warp from one face to another using the piecewise affine warping technique 
+            </p>
+            <p>
+                <h5>5. Face Morphing and Swapping </h5>
+                    This project is to warp from one face to another using the **piecewise affine warping technique** 
                     to perform morphing and face-swapping. The idea to is transform the selected points into 
                     triangles and perform morphing and blending. 
             </p>
