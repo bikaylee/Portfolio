@@ -174,7 +174,7 @@ title: Project
             <p>
                 Team: Individual Work
             </p>
-            <b><h6>1. Images and Color Demosaicing </h6></b>
+            <h6><b>1. Images and Color Demosaicing </b></h6>
             <p>
                 The demosaiced image appears darker than the JPG version because the in the phase of demosaicing, 
                 the demosaiced algrithm fills the missing pixels by prediction based on its surrounding colors 
@@ -183,7 +183,7 @@ title: Project
                 and the <b>Gamma/Curve</b> and <b>White Balance</b> processes in the DSP would regenerate the brightness 
                 and contrast of the image for human eyes.
             </p>
-            <b><h6>2. Homography Mosaics </h6></b>
+            <h6><b>2. Homography Mosaics </b></h6>
             <p>
                 In order to construct a mosaic from a central image and a set of <b>peripheral images</b>, 
                 one homography for each peripheral image is requried for the final mosaic. 
@@ -193,7 +193,7 @@ title: Project
                 linear least squares. Finally, warp and blend the homographies into a mosaic image. Blending 
                 is using <b>guassian filter</b> and <b>alpha blend</b> for smoother effect. 
             </p>
-            <b><h6>3. Texture Quilting </h6></b>
+            <h6><b>3. Texture Quilting </b></h6>
             <p>
                 This project is to stitch together image patches sampled from an input texture in order to synthesize 
                 new texture images. First, find the shortest path of seam between the edge of 
@@ -202,7 +202,7 @@ title: Project
                 containing the set of available texture tiles, the tilesize and overlap parameters and synthesizes
                 the output texture by stitching together the tiles.
             </p>
-            <b><h6>4. Object Detection </h6></b>
+            <h6><b>4. Object Detection </b></h6>
             <p>
                 This project takes in a collection of templates and use their <b>HOG feature maps</b> to compute the
                 similar objects in the image. First, compute the <b>orientation and magnitude of the gradient 
@@ -212,7 +212,7 @@ title: Project
                 for each, and generate a template by taking the average positive template minus the average
                 negative template.
             </p>
-            <b><h6>5. Face Morphing and Swapping </h6></b>
+            <h6><b>5. Face Morphing and Swapping </b></h6>
             <p>
                 This project is to warp from one face to another using the <b>piecewise affine warping technique</b> 
                 to perform morphing and face-swapping. The idea to is transform the selected points into 
@@ -251,7 +251,7 @@ title: Project
             <p>
                 Team: Nigina Pulatova
             </p>
-            <b><h6>1. LED Light </h6></b>
+            <h6><b>1. LED Light </b></h6>
             <p>
                 A push button is used as input and an LED light as ouptut. This program blinks 
                 the LED on/off for as long as the push button is pressed. Initially, instruction timing is 
@@ -259,7 +259,7 @@ title: Project
                 based on one of the ATMega32 internal timers (external 8MHz crystal). 
                 The blinking rate is 500ms on and 500ms off.
             </p>
-            <b><h6>2. Clock </h6></b>
+            <h6><b>2. Clock </b></h6>
             <p>
                 A digital clock, showing MM/DD/YYYY on the top row 
                 and HH:MM:SS on the bottom row. <b>Ticking</b> is included to 
@@ -267,7 +267,7 @@ title: Project
                 military time or 12hr mode. Similar to a real clock, the time
                 can be modified and also includes daylight savings and leap year. 
             </p>
-            <b><h6>3. Music Player </h6></b>
+            <h6><b>3. Music Player </b></h6>
             <p>
                 A keypad as input to switch between songs and an LCD and a speaker as output. 
                 The music player is able to play musical notes that are stored in its memory. The frequency 
@@ -275,13 +275,13 @@ title: Project
                 as macros. In order to play the song, the <b>pitch, period, and tempo</b> are tuned and can be adjusted
                 with keypad input.
             </p>
-            <b><h6>4. Voltmeter </h6></b>
+            <h6><b>4. Voltmeter </b></h6>
                 A keypad and an <b>analog-to-digital (AD) I/O</b> is used as input and 
                 an LCD as output. Final display includes instantaneous voltage, max/min voltage, 
                 and average voltage with a reset button. All samples are taken in every 500ms. 
                 We include both <b>single-ended</b> and <b>differential</b> measurement in this project. 
             </p>
-            <b><h6>5. Alarm Clock </h6></b>
+            <h6><b>5. Alarm Clock </b></h6>
             <p>
                 The alarm clock is able to go off during the set time, 
                 include stopwatch and timer, take into account the daylight savings 
