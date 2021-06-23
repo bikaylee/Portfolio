@@ -29,10 +29,10 @@ title: Project
                 Team: Individual Work
             </p>
             <p>
-                This is an e-commerce movie shopping website(Not really selling things). The website contains separate logins for users and bployees. If users want to check out a movie, then the user must login first. The bployee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
+                This is an e-commerce movie shopping website(Not really selling things). The website contains separate logins for users and employees. If users want to check out a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
             </p>
             <p>
-                The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend api. The database server used is <b>MySQL</b> and it's hosted in an AWS ec2 instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
+                The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend API. The database server used is <b>MySQL</b> and it's hosted in an AWS ec2 instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
             </p>
             <p>
                 Website: 
@@ -239,7 +239,7 @@ title: Project
                 Embedded Software built with ATMega32
             </h3>
             <p>
-                Embedded-Software Projects &middot; 
+                Embedded Software Projects &middot; 
                 <i>
                     UC Irvine, CS145/L
                 </i>
@@ -275,6 +275,7 @@ title: Project
                 as macros. In order to play the song, the <b>pitch, period, and tempo</b> are tuned and can be adjusted
                 with keypad input.
             </p>
+            <p>
             <h6><b>4. Voltmeter </b></h6>
                 A keypad and an <b>analog-to-digital (AD) I/O</b> is used as input and 
                 an LCD as output. Final display includes instantaneous voltage, max/min voltage, 
