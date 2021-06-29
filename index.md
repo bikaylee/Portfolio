@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project
+title: Projects
 ---
 
 <h2> Projects </h2>
@@ -32,7 +32,7 @@ title: Project
                 This is an e-commerce movie shopping website(Not really selling things). The website contains separate logins for users and employees. If users want to check out a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
             </p>
             <p>
-                The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend API. The database server used is <b>MySQL</b> and it's hosted in an AWS ec2 instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
+                The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend API. The database server used is <b>MySQL</b> and it's hosted in an <b>AWS ec2</b> instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
             </p>
             <p>
                 Website: 
@@ -86,7 +86,7 @@ title: Project
                     https://letsfika.today/ 
                 </a>
                 <br>
-                Software Tools: MongoDB, ExpressJS, React, NodeJS, Netlify, Heroku, Youtube Data API, Spotify API
+                Software Tools: MongoDB Atlas, ExpressJS, React, NodeJS, Netlify, Heroku, Youtube Data API, Spotify API
             </p>
         </div>
     </div>
@@ -140,7 +140,7 @@ title: Project
                     https://github.com/bikaylee/Pixel-Jump
                 </a>
                 <br>
-                Software Tools: gym, rllib, ppo, numpy
+                Software Tools: Python, Gym, RLlib, PPO, Numpy, OpenAI
             </p>
         </div>
     </div>
@@ -219,7 +219,7 @@ title: Project
                 triangles and perform morphing and blending. 
             </p>
             <p>
-                Tools: Python, jupyter notebook, numpy, matplotlib, scipy
+                Tools: Python, Jupyter Notebook, Numpy, Matplotlib, Scipy
             </p>
         </div>
     </div>
@@ -249,7 +249,7 @@ title: Project
                 </small>
             </p>
             <p>
-                Team: Nigina Pulatova
+                Team Members: Nigina Pulatova
             </p>
             <h6><b>1. LED Light </b></h6>
             <p>
@@ -290,7 +290,7 @@ title: Project
                 while alarm is going off. Sound is using analog audio signal.
             </p>
             <p>
-                Tools: C, Atmel Studio, Aruino Programmer, ATMega32 Microcontroller, keypad, LED light, Speaker, LCD
+                Tools: C, Atmel Studio, Aruino Programmer, ATMega32 Microcontroller, Keypad, LED Light, Speaker, LCD
             </p>
         </div>
     </div>
@@ -323,10 +323,10 @@ title: Project
                 Team: Individual Work
             </p>
             <p>
-                This project is from an intro course of Artificial Intelligence. The Wumpus World is classified as <b>single agent, partially observable, simulated, static, discrete, sequential, and deterministic.</b> The goal is to let the agent get as many points as possible. Given a 2D grid of tiles, the agent will be scored based on the performance of getting a gold safely. The objective is to use <b>a* search</b> to find the minimal step of path both in searching the target and returning. Based on the current perceptions to predict the safety of surrounding tiles, the agent will go to the safest location in searching and will be marked trapped and return to the starting point if surroundings are too dangerous.
+                This project is from an intro course of Artificial Intelligence. The Wumpus World is classified as <b>single agent, partially observable, simulated, static, discrete, sequential, and deterministic.</b> The goal is to let the agent get as many points as possible. Given a 2D grid of tiles, the agent will be scored based on the performance of getting a gold safely. The objective is to use <b>A* search</b> to find the minimal step of path both in searching the target and returning. Based on the current perceptions to predict the safety of surrounding tiles, the agent will go to the safest location in searching and will be marked trapped and return to the starting point if surroundings are too dangerous.
             </p>
             <p>
-                Software Tools: C++, a* search
+                Software Tools: C++, A* search
             </p>
         </div>
     </div>
