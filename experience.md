@@ -27,7 +27,7 @@ _Associate Degree for Transfer, Mathematics, 3.80/4.0_ <br>
 
 **Languages:** Java, Python, C++, C, SQL
 
-**Technologies:** NodeJS, ExpressJS, React, PPO, MongoDB, Python Flask
+**Technologies:** React, Node.js, Express, MongoDB, Flask, PPO
 
 <br><br>
 
