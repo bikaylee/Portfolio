@@ -29,7 +29,7 @@ title: Projects
                 Team: Individual Work
             </p>
             <p>
-                This is an e-commerce movie shopping website(Not really selling things). The website contains separate logins for users and employees. If users want to check out a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
+                This is an e-commerce movie shopping website. The website contains separate logins for users and employees. If users want to check out a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
             </p>
             <p>
                 The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend API. The database server used is <b>MySQL</b> and it's hosted in an <b>AWS ec2</b> instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
