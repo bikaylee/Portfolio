@@ -3,7 +3,6 @@ layout: default
 title: Experience
 ---
 
-<br><br>
 
 ### 🎓 &nbsp; Education
 

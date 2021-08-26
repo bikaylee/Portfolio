@@ -3,8 +3,6 @@ layout: default
 title: Projects
 ---
 
-<br><br>
-
 <h2> Projects </h2>
 
 <br>

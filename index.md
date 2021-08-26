@@ -13,4 +13,4 @@ title: Home
 
 A passionate Software Developer based in San Francisco.
 
-<br><br><br>
+<br>
