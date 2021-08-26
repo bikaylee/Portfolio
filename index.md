@@ -26,13 +26,13 @@ title: Projects
                 </small>
             </p>
             <p>
-                Team: Individual Work
+                Team: Individual
             </p>
             <p>
-                This is an e-commerce movie shopping website. The website contains separate logins for users and employees. If users want to check out a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and also the metadata of the database structure.
+                This is an e-commerce movie shopping website. The website contains separate logins for users and employees. If users want to check out a movie, then the user must login first. The employee dashboard is for adding more movies and stars into the database, and it also contains the metadata of the database structure.
             </p>
             <p>
-                The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend API. The database server used is <b>MySQL</b> and it's hosted in an <b>AWS ec2</b> instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
+                The backend is written in <b>Java Servlet</b>, and the frontend is using <b>Javascript, HTML, CSS, and ajax</b> that's for calling the backend API. The database server used is <b>MySQL</b> and it's hosted on an <b>AWS ec2</b> instance. The whole project is deployed on the <b>Tomcat</b> servers in both master and slave instances. For security reasons, <b>reCAPTCHA</b> is set up to prevent bots from checking out the products and <b>HTTPS</b> is enforced. For scalability, <b>Master/Slave replication, load balancer, and connection pooling</b> were used to increase the performance of the website.
             </p>
             <p>
                 Website: 
@@ -72,13 +72,13 @@ title: Projects
                 </small>
             </p>
             <p>
-                Team Members: Albert Zhang, Jack Su, Michael Wang
+                Team Members: Albert Z., Jack S., Michael W.
             </p>
             <p>
-                This Capstone project is sponsored by a startup company that wants to provide a space for people to share perspectives during a Swedish coffee time, known as Fika. To escape from commenting and likes and provide a healthy and safe environment for people so that speakers are more encouraged to share.
+                This Capstone project is sponsored by a startup company that wants to provide a space for people to share perspectives during a Swedish coffee time, known as Fika. To escape from comments, likes and provide a healthy and safe environment for people so that speakers are more encouraged to share.
             </p>
             <p>
-                The technical structure of the project is the <b>MERN</b> stack development, which stands for <b>MongoDB, ExpressJS, React, and NodeJS.</b> Since most of the team is more familiar with python, we decided to use <b>Python Flask</b> for the backend in the beginning. However, the connecting of backend and frontend has an unresolved bug for two weeks, so we decided to convert the whole project into NodeJS for the backend. As everyone is working for a specific feature, the team is full-stack so everyone is more familiar with the project code. So, I learned React and NodeJS during this project. I am responsible for the content management for administrators and overall display control for the frontend. Since the content is hosted on Spotify and Youtube, I used <b>OAuth2.0</b> for both API calls for pulling content links into our database.
+                The technical structure of the project is the <b>MERN</b> stack development, which stands for <b>MongoDB, ExpressJS, React, and NodeJS.</b> Since most of the team is more familiar with python, we decided to use <b>Python Flask</b> for the backend in the beginning. However, the connection of backend and frontend has an unresolved bug for two weeks, so we decided to convert the whole project into NodeJS for the backend. As everyone is working for a specific feature, the tasks are full-stack so everyone is more familiar with the project code. So, I learned React and NodeJS during this project. I am responsible for the content management for administrators and overall display control for the frontend. Since the content is hosted on Spotify and Youtube, I used <b>OAuth2.0</b> for both API calls in order to pull the corresponding contents into our database.
             </p>
             <p>
                 Website: 
@@ -118,10 +118,10 @@ title: Projects
                 </small>
             </p>
             <p>
-                Team Members: Hongen Lei, Wencong She
+                Team Members: Hongen L., Wencong S.
             </p>
             <p>
-                Pixel Jump is a gameplay simulation in Malmo(Minecraft) where the agent will perform physical jumps from one platform to another with user-control jump simulation based on the <b> 3D projectile motion calculation</b>. The purpose of this project is to let the agent observe his surrounding platforms and then pick an initial velocity from a continuous action space to ensure that the agent can land on various positions of the next platform and hopefully jump onto the glass (goal) block for greater reward.
+                Pixel Jump is a gameplay simulation in Malmo(Minecraft) where the agent will perform physical jumps from one platform to another with user-control jump simulation based on the <b> 3D projectile motion calculation</b>. The purpose of this project is to let the agent to observe the next platform to determine an initial velocity from a continuous action space to ensure that the agent can land on various positions of the next platform. Eventually, the agent will learn how to jump onto the glass (goal) block for greater reward.
             </p>
             <p>
                 This is <b>Deep Reinforcement Learning</b> project that uses <b>PPO(Proximal Policy Optimization).</b>The algorithm makes updates based on the transitions that were obtained by the current policy and is used in the agent’s decision for better performance. To scale up the performance of our agent, we made five difficult maps to train our agent for at least 24 hours. Data analysis can be found in the 
@@ -172,7 +172,7 @@ title: Projects
                 </small>
             </p>
             <p>
-                Team: Individual Work
+                Team: Individual
             </p>
             <h6><b>1. Images and Color Demosaicing </b></h6>
             <p>
@@ -215,7 +215,7 @@ title: Projects
             <h6><b>5. Face Morphing and Swapping </b></h6>
             <p>
                 This project is to warp from one face to another using the <b>piecewise affine warping technique</b> 
-                to perform morphing and face-swapping. The idea to is transform the selected points into 
+                to perform morphing and face-swapping. The idea is to transform the selected points into 
                 triangles and perform morphing and blending. 
             </p>
             <p>
@@ -320,10 +320,10 @@ title: Projects
                 </small>
             </p>
             <p>
-                Team: Individual Work
+                Team: David W.
             </p>
             <p>
-                This project is from an intro course of Artificial Intelligence. The Wumpus World is classified as <b>single agent, partially observable, simulated, static, discrete, sequential, and deterministic.</b> The goal is to let the agent get as many points as possible. Given a 2D grid of tiles, the agent will be scored based on the performance of getting a gold safely. The objective is to use <b>A* search</b> to find the minimal step of path both in searching the target and returning. Based on the current perceptions to predict the safety of surrounding tiles, the agent will go to the safest location in searching and will be marked trapped and return to the starting point if surroundings are too dangerous.
+                This project is from an intro course of Artificial Intelligence. The Wumpus World is classified as <b>single agent, partially observable, simulated, static, discrete, sequential, and deterministic.</b> The goal is to let the agent get as many points as possible. Given a 2D grid of tiles, the agent will be scored based on the performance of getting a gold safely. The objective is to use <b>A* search</b> to find the minimum steps of path both in searching the target and returning. Based on the current perceptions to predict the safety of all surrounding tiles, the agent will go to the safest location when searching or marked trapped and return to the starting point if surroundings are too dangerous.
             </p>
             <p>
                 Software Tools: C++, A* search
@@ -356,7 +356,7 @@ title: Projects
                 </small>
             </p>
             <p>
-                Team: Individual Work
+                Team: Individual
             </p>
             <p>
                 As the treasurer of She Who Codes club in City College of San Francisco, I redesigned the club webpage to promote our club. The webpage contains past events and upcoming events. It also includes the club contact information, meeting time, and mission.
@@ -403,7 +403,7 @@ title: Projects
                 </small>
             </p>
             <p>
-            Team: Individual Work
+            Team: Individual
             </p>
             <p>
                 Very first webpage project after taking APCS in junior year of high school. At San Francisco Success Center, this 8-week course about web development fundamentals was taught by an experienced software engineer. This project is a redesigned website for a local restaurant in San Francisco.
