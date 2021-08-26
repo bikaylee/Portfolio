@@ -25,9 +25,9 @@ _Associate Degree for Transfer, Mathematics, 3.80/4.0_ <br>
 
 ---
 
-**Languages:** Java, Python, C++, C, SQL
+**Languages:** Java, Python, JavaScript, C++, C, SQL, HTML, CSS
 
-**Technologies:** React, Node.js, Express, MongoDB, Flask, PPO
+**Technologies:** React, Node.js, Express, MongoDB, GitHub, AWS, RLlib, PPO, Gym
 
 <br><br>
 
@@ -42,9 +42,9 @@ _Associate Degree for Transfer, Mathematics, 3.80/4.0_ <br>
 
 _San Francisco, CA_
 
-- Assisted students with basic Python syntax
-- Held office hours for tutoring students in fundamental concepts like inheritance and polymorphism
-- Graded 200 student’s homework assignments
+- Assisted students in acquiring better understanding of targeted weak areas within Java fundamental concepts
+- Administered academic guidance and tutoring to students during office hours
+- Evaluated 200 student’s assignments with feedbacks
 
 <br>
 
