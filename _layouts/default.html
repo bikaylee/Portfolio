@@ -23,13 +23,13 @@
   <body>
 
     {% assign current = page.url | downcase | split: '/' %}
-    {% assign projectClass = 'disabled' %}
+    {% assign projectsClass = 'disabled' %}
     {% assign resumeClass = 'disabled' %}
     {% assign experienceClass = 'disabled' %}
     {% for page in site.html_pages %}
       <!--h1>{{ page.url }}</h1-->
-      {% if page.url == '/project.html' %}
-          {% assign projectClass = '' %}
+      {% if page.url == '/projects.html' %}
+          {% assign projectsClass = '' %}
       {% endif %}
       {% if page.url == '/experience.html' %}
           {% assign experienceClass = '' %}
@@ -38,8 +38,8 @@
       {% if page.url == '/resume.html' %}
           {% assign resumeClass = '' %}
       {% endif %} -->
-	  
     {% endfor %}
+	  
     <!--h2>{% if current[1] == %} 5 {% endif %}</h2-->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -59,7 +59,7 @@
         <div id="navbarNav" class="collapse navbar-collapse justify-content-end">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a href="project.html" class="nav-link {% if current[1] == 'project.html' or current[1] == %} active {% endif %}">Projects</a>
+              <a href="projects.html" class="nav-link {{ proejctsClass }}{% if current[1] == 'projects.html' %} active {% endif %}">Projects</a>
             </li>
             <li class="nav-item">
               <a href="experience.html" class="nav-link {{ experienceClass }}{% if current[1] == 'experience.html' %} active {% endif %}">Experience</a>
