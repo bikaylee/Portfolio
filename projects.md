@@ -59,6 +59,49 @@ title: Projects
     <div class="col-sm-8">
         <div class="container">
             <h3> 
+                Search Engine and Web Crawler
+            </h3>
+            <p>
+                Information Retrieval Project &middot; 
+                <i>
+                    UC Irvine, CS121
+                </i>
+                <br>
+                <small>
+                    Oct 2021 - Dec 2021
+                </small>
+            </p>
+            <p>
+                Team Members: Individual
+            </p>
+            <p>
+                TO BE ADDED
+            </p>
+            <p>
+                Website: 
+                <a href="">
+                    TO BE ADDED
+                </a>
+                <br>
+                Software Tools: TO BE ADDED
+            </p>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <a href="">
+            <img src="img/" alt="Search Engine">
+        </a>
+    </div>
+</div>
+
+<br>
+<hr>
+<br>
+
+<div class="row">
+    <div class="col-sm-8">
+        <div class="container">
+            <h3> 
                 Let’s Fika 
             </h3>
             <p>
