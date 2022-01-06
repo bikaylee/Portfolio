@@ -10,8 +10,8 @@ title: Experience
 
 ##### University of California, Irvine
 
-_Bachelor of Science - BS, Computer Science, 3.84/4.0_ <br>
-<small>2019 - Present</small>
+_Bachelor of Science - BS, Computer Science, 3.85/4.0_ <br>
+<small>2019 - 2021</small>
 
 ##### City College of San Francisco
 
