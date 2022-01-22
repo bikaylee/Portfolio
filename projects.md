@@ -10,6 +10,50 @@ title: Projects
 <br>
 
 <div class="row">
+    <div class="col-sm-8">
+        <div class="container">
+            <h3> 
+                Search Engine and Web Crawler
+            </h3>
+            <p>
+                Information Retrieval Project &middot; 
+                <i>
+                    UC Irvine, CS121
+                </i>
+                <br>
+                <small>
+                    Oct 2021 - Dec 2021
+                </small>
+            </p>
+            <p>
+                Team Members: Individual
+            </p>
+            <p>
+                Wrote a Web search engine from the ground up that is capable of handling tens of thousands of Web pages, under harsh operational constraints and having a query response time under 300ms
+            </p>
+            <p>
+                Website: 
+                <a href="https://cs121-search-engine-flask-app.herokuapp.com/">
+                    https://cs121-search-engine-flask-app.herokuapp.com/
+                </a>
+                <br>
+                Software Tools: Python, Flask, HTML, CSS, Partial Index, TF-IDF, Sim-hash
+            </p>
+        </div>
+    </div>
+    <div class="col-sm-4">
+        <a href="https://cs121-search-engine-flask-app.herokuapp.com/">
+            <img src="img/searchengine.png" alt="Search Engine">
+        </a>
+    </div>
+</div>
+
+
+<br>
+<hr>
+<br>
+
+<div class="row">
     <div class="col-sm-8" >
         <div class="container">
             <h3> 
@@ -48,49 +92,6 @@ title: Projects
             <a href="https://fabflix.shop">
                 <img src="img/fabflix.png" alt="Fabflix Webpage">
             </a>
-    </div>
-</div>
-
-<br>
-<hr>
-<br>
-
-<div class="row">
-    <div class="col-sm-8">
-        <div class="container">
-            <h3> 
-                Search Engine and Web Crawler
-            </h3>
-            <p>
-                Information Retrieval Project &middot; 
-                <i>
-                    UC Irvine, CS121
-                </i>
-                <br>
-                <small>
-                    Oct 2021 - Dec 2021
-                </small>
-            </p>
-            <p>
-                Team Members: Individual
-            </p>
-            <p>
-                TO BE ADDED
-            </p>
-            <p>
-                Website: 
-                <a href="">
-                    TO BE ADDED
-                </a>
-                <br>
-                Software Tools: TO BE ADDED
-            </p>
-        </div>
-    </div>
-    <div class="col-sm-4">
-        <a href="">
-            <img src="img/" alt="Search Engine">
-        </a>
     </div>
 </div>
 
