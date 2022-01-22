@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+css: css/home.css
 ---
 
 <br><br><br>
