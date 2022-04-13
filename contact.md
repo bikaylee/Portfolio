@@ -11,7 +11,7 @@ title: Contact
 
 ###### Email: [bixiadd@gmail.com](mailto:bixiadd@gmail.com)
 
-###### Linkedin: [https://www.linkedin.com/in/bixia-d-880753122/](https://www.linkedin.com/in/bixia-d-880753122/)
+###### Linkedin: [https://www.linkedin.com/in/kaylee-deng](https://www.linkedin.com/in/kaylee-deng)
 
 ###### GitHub: [https://github.com/bikaylee](https://github.com/bikaylee)
 
