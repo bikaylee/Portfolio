@@ -80,8 +80,8 @@ title: Projects
             </p>
             <p>
                 Website: 
-                <a href="https://fabflix.shop">
-                    https://fabflix.shop
+                <a href="https://fabflix.kayleedeng.com">
+                    https://fabflix.kayleedeng.com
                 </a>
                 <br>
                 Software Tools: JavaServlets, MySQL, Apache Tomcat, AWS, GCP, Javascript, Java, UDF, HTTPS, JDBC, Ajax, Stored Procedures
