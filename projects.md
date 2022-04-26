@@ -89,7 +89,7 @@ title: Projects
         </div>
     </div>
     <div class="col-sm-4">
-            <a href="https://fabflix.shop">
+            <a href="https://fabflix.kayleedeng.com">
                 <img src="img/fabflix.png" alt="Fabflix Webpage">
             </a>
     </div>
